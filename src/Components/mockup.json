@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Terry",
+            "lastName": "Medhurst",
+            "email": "atuny0@sohu.com"
+        },
+        {
+            "id": 2,
+            "firstName": "Sheldon",
+            "lastName": "Quigley",
+            "email": "hbingley1@plala.or.jp"
+        },
+        {
+            "id": 3,
+            "firstName": "Terrill",
+            "lastName": "Hills",
+            "email": "rshawe2@51.la"
+        },
+        {
+            "id": 4,
+            "firstName": "Miles",
+            "lastName": "Cummerata",
+            "email": "yraigatt3@nature.com"
+        }
+    ],
+    "total": 100,
+    "skip": 0,
+    "limit": 30
+}
